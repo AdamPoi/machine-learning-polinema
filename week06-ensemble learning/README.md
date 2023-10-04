@@ -2,7 +2,7 @@
 - [Praktikum 2 - Boosting](./praktikum/praktikum2.ipynb)
 - [Praktikum 3 - Stacking](./praktikum/praktikum3.ipynb)
 - [Praktikum 4 - Voting](./praktikum/praktikum4.ipynb)
--
+
 
 - [Tugas 1](./tugas/tugas1.ipynb)
 
