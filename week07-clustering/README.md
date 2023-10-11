@@ -1,20 +1,18 @@
 - [Praktikum 1 - KMeans](./praktikum/praktikum1.ipynb)
-- [Praktikum 2 - Boosting](./praktikum/praktikum2.ipynb)
-- [Praktikum 3 - Stacking](./praktikum/praktikum3.ipynb)
-- [Praktikum 4 - Voting](./praktikum/praktikum4.ipynb)
+- [Praktikum 2 - Klasterisasi Data](./praktikum/praktikum2.ipynb)
+- [Praktikum 3 - Self-optimizing Map (SOM)](./praktikum/praktikum3.ipynb)
+- [Praktikum 4 - SOM pada Citra](./praktikum/praktikum4.ipynb)
 
-- [Tugas 1](./tugas/tugas1.ipynb)
+# Tugas
 
-  Terdapat dataset mushroom. Berdasarkan dataset yang tersebut, bandingkan peforma antara algoritma Decision Tree dan RandomForest. Gunakan tunning hyperparameter untuk mendapatkan parameter dan akurasi yang terbaik.
+Buatlah sebuah model K-Means dengan ketentuan,
 
-- [Tugas 2](./tugas/tugas2.ipynb)
+- Gunakan data 'Mall_Customers.csv'
+- Tentukan fitur apa yang tepat untuk melakukan clustering (minimal 2)
+- Buatlah model K-Means dengan mempertimbangkan jumlah yang terbaik.
 
-  Terdapat dataset mushroom. Berdasarkan dataset tersebut, bandingkan peforma antara algoritma Decision Tree dan AdaBoost. Gunakan tunning hyperparameter untuk mendapatkan parameter dan akurasi yang terbaik.
+  [Tugas K-Means](./tugas/tugas.ipynb)
 
-- [Tugas 3](./tugas/tugas3.ipynb)
+- Buatlah implementasi model SOM untuk segmentasi citra lain
 
-  Dengan menggunakan dataset diabetes, buatlah ensemble voting dengan algoritma
-  Logistic Regression
-  SVM kernel polynomial
-  Decission Tree
-  Anda boleh melakukan eksplorasi dengan melakukan tunning hyperparameter
+  [Tugas SOM](./tugas/tugas-som.ipynb)
